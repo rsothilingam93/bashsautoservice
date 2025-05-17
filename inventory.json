@@ -1,9 +1,9 @@
 [
   {
     "images": [
-      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/car1-1.jpg",
-      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/car1-2.jpg",
-      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/car1-3.jpg"
+      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/beamer.jpg",
+      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/beamer.jpg",
+      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/beamer.jpg"
     ],
     "price": "$15,995",
     "mileage": "82,000 km",
@@ -12,13 +12,27 @@
   },
   {
     "images": [
-      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/car2-1.jpg",
-      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/car2-2.jpg",
-      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/car2-3.jpg"
+      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/beamer.jpg",
+      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/beamer.jpg",
+      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/beamer.jpg"
     ],
     "price": "$23,450",
     "mileage": "65,000 km",
     "bodyStyle": "SUV",
     "transmission": "Automatic"
   }
+
+  {
+    "images": [
+      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/beamer.jpg",
+      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/beamer.jpg",
+      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/beamer.jpg"
+    ],
+    "price": "$33,450",
+    "mileage": "105,000 km",
+    "bodyStyle": "SUV",
+    "transmission": "Automatic"
+  }
+
+  
 ]
