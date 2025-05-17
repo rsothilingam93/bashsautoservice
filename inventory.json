@@ -32,4 +32,15 @@
     "bodyStyle": "SUV",
     "transmission": "Automatic"
   }
+    {
+    "images": [
+      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/beamer.jpg",
+      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/beamer2.jpg",
+      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/beamer3.jpg"
+    ],
+    "price": "$43,450",
+    "mileage": "95,000 km",
+    "bodyStyle": "SUV",
+    "transmission": "Manual"
+  }
 ]
