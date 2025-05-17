@@ -20,7 +20,7 @@
     "mileage": "65,000 km",
     "bodyStyle": "SUV",
     "transmission": "Automatic"
-  },   <-- Add this comma!
+  },
   {
     "images": [
       "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/beamer.jpg",
