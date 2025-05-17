@@ -11,7 +11,9 @@
   },
   {
     "images": [
-      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/beamer.jpg"
+      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/beamer.jpg",
+      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/beamer3.jpg"
+
     ],
     "price": "$23,450",
     "mileage": "65,000 km",
