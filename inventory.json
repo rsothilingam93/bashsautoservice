@@ -22,27 +22,5 @@
     "mileage": "97,000 km",
     "bodyStyle": "Sedan",
     "transmission": "Automatic"
-  },
-  {
-    "images": [
-      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/beamer.jpg",
-      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/beamer2.jpg",
-      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/beamer3.jpg"
-    ],
-    "price": "$33,450",
-    "mileage": "105,000 km",
-    "bodyStyle": "SUV",
-    "transmission": "Automatic"
-  },
-  {
-    "images": [
-      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/beamer.jpg",
-      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/beamer2.jpg",
-      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/beamer3.jpg"
-    ],
-    "price": "$27,800",
-    "mileage": "95,000 km",
-    "bodyStyle": "Coupe",
-    "transmission": "Manual"
   }
 ]
