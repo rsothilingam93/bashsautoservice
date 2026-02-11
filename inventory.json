@@ -6,6 +6,7 @@
       "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/nissan_murano_2015(3).png",
       "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/nissan_murano_2015(4).png"
     ],
+    "name:": "Nissan Murano 2015",
     "price": "$17,500 + tax",
     "mileage": "90,000 km",
     "bodyStyle": "SUV",
@@ -18,6 +19,7 @@
       "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/honda_accord_2015(3).png",
       "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/honda_accord_2015(4).png"
     ],
+    "name:": "Honda Accord 2015",
     "price": "$17,850 + tax",
     "mileage": "97,000 km",
     "bodyStyle": "Sedan",
@@ -30,6 +32,7 @@
       "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/Ford_Transit_2017_5.png",
       "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/Ford_Transit_2017_6.png"
     ],
+    "name:": "Ford Transit 250 Cargo Van 2017",
     "price": "$30,000 + tax",
     "mileage": "125,000 km",
     "bodyStyle": "Van",
