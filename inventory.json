@@ -1,13 +1,14 @@
 [
   {
     "images": [
-      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/beamer.jpg",
-      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/beamer2.jpg",
-      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/beamer3.jpg"
+      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/nissan_murano_2015.jpg",
+      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/nissan_murano_2015(2).jpg",
+      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/nissan_murano_2015(3).jpg",
+      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/nissan_murano_2015(4).jpg"
     ],
-    "price": "$15,995",
-    "mileage": "82,000 km",
-    "bodyStyle": "Sedan",
+    "price": "$17,500 + tax",
+    "mileage": "90,000 km",
+    "bodyStyle": "SUV",
     "transmission": "Automatic"
   },
   {
