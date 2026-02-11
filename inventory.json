@@ -13,12 +13,13 @@
   },
   {
     "images": [
-      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/beamer.jpg",
-      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/beamer2.jpg",
-      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/beamer3.jpg"
+      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/honda_accord_2015.jpg",
+      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/honda_accord_2015(2).jpg",
+      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/honda_accord_2015(3).jpg",
+      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/honda_accord_2015(4).jpg"
     ],
-    "price": "$23,450",
-    "mileage": "82,000 km",
+    "price": "$17,850 + tax",
+    "mileage": "97,000 km",
     "bodyStyle": "Sedan",
     "transmission": "Automatic"
   },
